@@ -1,0 +1,13 @@
+{
+  "name": "URL-Shortener-Microservice",
+  "version": "0.0.0",
+  "description": "An app that takes a long url and shortens it down to a nice tidy small url.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mike Malach <Mike@MSec.ca>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
